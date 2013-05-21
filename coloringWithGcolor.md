@@ -1,7 +1,7 @@
 Mapping Example: Coloring neighboring polygons in 4 different colors
 ========================================================
 
-This example, create a neighboring polygon index - to show neighboring polygons in 4 different colors. The main R code to assign 4 different classes was taken from now-archived "gcolor" (ineq.R* - downloaded from: http://cran.r-project.org/src/contrib/Archive/gcolor/). * NOT to be confused with "ineq"" tool in the ineq library, which has nothing to do with "gcolor" library tools.
+This example, create a neighboring polygon index - to show neighboring polygons in 4 different colors. The main R code to assign 4 different classes was taken from now-archived "gcolor" library code, ineq.R* - downloaded from: http://cran.r-project.org/src/contrib/Archive/gcolor/. * NOT to be confused with "ineq"" tool in the ineq library, which has nothing to do with "gcolor" library tools.
 
 For more discussion on the method, visit the following discussion thread: http://r-sig-geo.2731867.n2.nabble.com/Colouring-maps-so-that-adjacent-polygons-differ-in-colour-td6237661.html .
 
